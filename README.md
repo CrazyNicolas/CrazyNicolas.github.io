@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 蚁群算法实验Report
 
-You can use the [editor on GitHub](https://github.com/SCUTBlockChainResearchTeam/CrazyNicolas.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+本次实验使用语言为C/Python.实验平台为Windows10系统.硬件条件为cpu：i5-8250u 内存: 8GB. [代码已开源请访问](https://github.com/CrazyNicolas/acs)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
